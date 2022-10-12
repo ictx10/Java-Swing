@@ -1,5 +1,7 @@
 # Java
-a Java project use Java Swing connect to SQL Server
+**a Java project use Java Swing connect to SQL Server**
+
+
 
 How to run project (with SQL Server and Netbeans)
 
